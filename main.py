@@ -21,3 +21,7 @@ def main():
 
 
 main()
+
+# https://docs.opendota.com/#tag/matches%2Fpaths%2F~1matches~1%7Bmatch_id%7D%2Fget
+# https://pyopendota.readthedocs.io/en/latest/readme.html#get-common-entities
+# https://github.com/odota/dotaconstants
